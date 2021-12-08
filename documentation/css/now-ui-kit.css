@@ -94,7 +94,7 @@
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-brown,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-brown {
   color: #fff;
-  background: #dc9200;
+  background: purple;
 }
 
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-blue,
@@ -277,7 +277,7 @@
 .bootstrap-switch.bootstrap-switch-on
   .bootstrap-switch-brown
   ~ .bootstrap-switch-default {
-  background-color: #dc9200;
+  background-color: #dc0042;
 }
 
 .bootstrap-switch.bootstrap-switch-on
@@ -611,7 +611,7 @@
 
 .slider.slider-primary .noUi-connect,
 .slider.slider-primary.noUi-connect {
-  background-color: #dc9200;
+  background-color: purple;
 }
 
 .slider.slider-primary.noUi-target {
@@ -619,7 +619,7 @@
 }
 
 .slider.slider-primary .noUi-handle {
-  background-color: #dc9200;
+  background-color: purple;
 }
 
 .slider.slider-info .noUi-connect,
@@ -1916,7 +1916,7 @@ select.selectpicker {
 }
 
 .bootstrap-tagsinput .tag.tag-primary {
-  background-color: #dc9200;
+  background-color: purple;
   color: #ffffff;
   border: none;
 }
@@ -1926,7 +1926,7 @@ select.selectpicker {
 }
 
 .bootstrap-tagsinput .tag.tag-primary .tagsinput-add {
-  color: #dc9200;
+  color: purple;
 }
 
 .bootstrap-tagsinput .tag.tag-info {
@@ -2273,7 +2273,7 @@ select.selectpicker {
 
 .bootstrap-datetimepicker-widget a[data-action="togglePicker"],
 .bootstrap-datetimepicker-widget a[data-action="togglePicker"]:hover {
-  color: #dc9200;
+  color: purple;
 }
 
 .bootstrap-datetimepicker-widget a[data-action]:hover {
@@ -2298,7 +2298,7 @@ select.selectpicker {
 
 .bootstrap-datetimepicker-widget button[data-action] {
   width: 38px;
-  background-color: #dc9200;
+  background-color: purple;
   height: 38px;
   padding: 0;
   box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.2);
@@ -2347,7 +2347,7 @@ select.selectpicker {
 .bootstrap-datetimepicker-widget .picker-switch {
   text-align: center;
   border-radius: 3px;
-  color: #dc9200;
+  color: purple;
 }
 
 .bootstrap-datetimepicker-widget .picker-switch::after {
@@ -2408,7 +2408,7 @@ select.selectpicker {
   font-size: 12px;
   border-radius: 50%;
   text-align: center;
-  color: #dc9200;
+  color: purple;
 }
 
 .bootstrap-datetimepicker-widget table th.prev::after {
@@ -2421,7 +2421,7 @@ select.selectpicker {
 
 .bootstrap-datetimepicker-widget table th.dow {
   text-align: center;
-  color: #dc9200;
+  color: purple;
   padding-bottom: 5px;
   padding-top: 10px;
 }
@@ -2495,7 +2495,7 @@ select.selectpicker {
 
 .bootstrap-datetimepicker-widget table td.active > div,
 .bootstrap-datetimepicker-widget table td.active:hover > div {
-  background-color: #dc9200;
+  background-color: purple;
   color: #ffffff;
   box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.2);
 }
@@ -2527,7 +2527,7 @@ select.selectpicker {
 }
 
 .bootstrap-datetimepicker-widget table td span.active {
-  background-color: #dc9200;
+  background-color: purple;
   color: #ffffff;
 }
 
@@ -3626,7 +3626,7 @@ fieldset[disabled] .navbar .navbar-nav > a.btn.active {
 }
 
 .btn-primary {
-  background-color: #dc9200;
+  background-color: purple;
   color: #ffffff;
 }
 
@@ -3641,7 +3641,7 @@ fieldset[disabled] .navbar .navbar-nav > a.btn.active {
 .show > .btn-primary.dropdown-toggle,
 .show > .btn-primary.dropdown-toggle:focus,
 .show > .btn-primary.dropdown-toggle:hover {
-  background-color: #dc9200;
+  background-color: purple;
   color: #ffffff;
   box-shadow: none;
 }
@@ -3674,33 +3674,33 @@ fieldset[disabled] .btn-primary:focus,
 fieldset[disabled] .btn-primary.focus,
 fieldset[disabled] .btn-primary:active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #dc9200;
-  border-color: #dc9200;
+  background-color: purple;
+  border-color: purple;
 }
 
 .btn-primary.btn-simple {
-  color: #dc9200;
-  border-color: #dc9200;
+  color: purple;
+  border-color: purple;
 }
 
 .btn-primary.btn-simple:hover,
 .btn-primary.btn-simple:focus,
 .btn-primary.btn-simple:active {
   background-color: transparent;
-  color: #dc9200;
-  border-color: #dc9200;
+  color: purple;
+  border-color: purple;
   box-shadow: none;
 }
 
 .btn-primary.btn-link {
-  color: #dc9200;
+  color: purple;
 }
 
 .btn-primary.btn-link:hover,
 .btn-primary.btn-link:focus,
 .btn-primary.btn-link:active {
   background-color: transparent;
-  color: #dc9200;
+  color: purple;
   text-decoration: none;
   box-shadow: none;
 }
@@ -4027,7 +4027,7 @@ fieldset[disabled] .btn-danger.active {
 
 .btn-neutral {
   background-color: #ffffff;
-  color: #dc9200;
+  color: purple;
 }
 
 .btn-neutral:hover,
@@ -4138,13 +4138,13 @@ fieldset[disabled] .btn-neutral.active {
 .show > .btn-neutral.dropdown-toggle:focus,
 .show > .btn-neutral.dropdown-toggle:hover {
   background-color: #ffffff;
-  color: #dc9200;
+  color: purple;
   box-shadow: none;
 }
 
 .btn-neutral:hover,
 .btn-neutral:focus {
-  color: #dc9200;
+  color: purple;
 }
 
 .btn-neutral:hover:not(.nav-link),
@@ -4349,7 +4349,7 @@ fieldset[disabled] .btn-link.active {
 }
 
 .form-control:focus {
-  border: 1px solid #dc9200;
+  border: 1px solid purple;
   -webkit-box-shadow: none;
   box-shadow: none;
   outline: 0 !important;
@@ -4358,7 +4358,7 @@ fieldset[disabled] .btn-link.active {
 
 .form-control:focus + .input-group-addon,
 .form-control:focus ~ .input-group-addon {
-  border: 1px solid #dc9200;
+  border: 1px solid purple;
   border-left: none;
   background-color: transparent;
 }
@@ -4594,7 +4594,7 @@ fieldset[disabled] .btn-link.active {
 
 .input-group-focus .input-group-addon {
   background-color: #ffffff;
-  border-color: #dc9200;
+  border-color: purple;
 }
 
 .input-group-focus.form-group-no-border .input-group-addon {
@@ -4877,12 +4877,12 @@ textarea.form-control:active {
 }
 
 .progress-container.progress-primary .progress-bar {
-  background: #dc9200;
+  background: purple;
 }
 
 .progress-container.progress-primary .progress-value,
 .progress-container.progress-primary .progress-badge {
-  color: #dc9200;
+  color: purple;
 }
 
 .progress-container.progress-info .progress {
@@ -4966,8 +4966,8 @@ textarea.form-control:active {
 }
 
 .badge-primary {
-  border-color: #dc9200;
-  background-color: #dc9200;
+  border-color: purple;
+  background-color: purple;
 }
 
 .badge-info {
@@ -5069,8 +5069,8 @@ textarea.form-control:active {
 .pagination.pagination-primary .page-item.active > .page-link,
 .pagination.pagination-primary .page-item.active > .page-link:focus,
 .pagination.pagination-primary .page-item.active > .page-link:hover {
-  background-color: #dc9200;
-  border-color: #dc9200;
+  background-color: purple;
+  border-color: purple;
 }
 
 .pagination.pagination-warning .page-item.active > .page-link,
@@ -5102,7 +5102,7 @@ textarea.form-control:active {
 .pagination.pagination-neutral .page-item.active > .page-link:hover {
   background-color: #ffffff;
   border-color: #ffffff;
-  color: #dc9200;
+  color: purple;
 }
 
 .pagination-container {
@@ -5132,12 +5132,12 @@ small {
 }
 
 a {
-  color: #dc9200;
+  color: purple;
 }
 
 a:hover,
 a:focus {
-  color: #dc9200;
+  color: purple;
 }
 
 h1,
@@ -5240,7 +5240,7 @@ p {
 }
 
 .text-primary {
-  color: #dc9200 !important;
+  color: purple !important;
 }
 
 .text-info {
@@ -5278,12 +5278,12 @@ p {
 }
 
 .blockquote.blockquote-primary {
-  border-color: #dc9200;
-  color: #dc9200;
+  border-color: purple;
+  color: purple;
 }
 
 .blockquote.blockquote-primary small {
-  color: #dc9200;
+  color: purple;
 }
 
 .blockquote.blockquote-danger {
@@ -5375,7 +5375,7 @@ p {
 }
 
 .separator-line.separator-primary {
-  background-color: #dc9200;
+  background-color: purple;
 }
 
 .section-space {
@@ -5454,13 +5454,13 @@ p {
 .nav-pills.nav-pills-neutral .nav-item .nav-link.active:focus,
 .nav-pills.nav-pills-neutral .nav-item .nav-link.active:hover {
   background-color: #ffffff;
-  color: #dc9200;
+  color: purple;
 }
 
 .nav-pills.nav-pills-primary .nav-item .nav-link.active,
 .nav-pills.nav-pills-primary .nav-item .nav-link.active:focus,
 .nav-pills.nav-pills-primary .nav-item .nav-link.active:hover {
-  background-color: #dc9200;
+  background-color: purple;
 }
 
 .nav-pills.nav-pills-info .nav-item .nav-link.active,
@@ -5557,7 +5557,7 @@ p {
 }
 
 .nav-tabs.nav-tabs-primary > .nav-item > .nav-link.active {
-  background-color: #dc9200;
+  background-color: purple;
 }
 
 .nav-tabs.nav-tabs-info > .nav-item > .nav-link.active {
@@ -5754,7 +5754,7 @@ p {
 }
 
 .bg-primary {
-  background-color: #dc9200 !important;
+  background-color: purple !important;
 }
 
 .bg-info {
@@ -6237,7 +6237,7 @@ img {
 }
 
 .popover.popover-primary {
-  background-color: #dc9200;
+  background-color: purple;
 }
 
 .popover.popover-primary .popover-body {
@@ -6245,19 +6245,19 @@ img {
 }
 
 .popover.popover-primary.bs-popover-right .arrow:after {
-  border-right-color: #dc9200;
+  border-right-color: purple;
 }
 
 .popover.popover-primary.bs-popover-top .arrow:after {
-  border-top-color: #dc9200;
+  border-top-color: purple;
 }
 
 .popover.popover-primary.bs-popover-bottom .arrow:after {
-  border-bottom-color: #dc9200;
+  border-bottom-color: purple;
 }
 
 .popover.popover-primary.bs-popover-left .arrow:after {
-  border-left-color: #dc9200;
+  border-left-color: purple;
 }
 
 .popover.popover-primary .popover-header {
@@ -7123,7 +7123,7 @@ Created using IcoMoon - icomoon.io
 }
 
 .info.info-hover:hover .icon.icon-primary + .info-title {
-  color: #dc9200;
+  color: purple;
 }
 
 .info.info-hover:hover .icon.icon-success + .info-title {
@@ -7200,7 +7200,7 @@ Created using IcoMoon - icomoon.io
 }
 
 .icon.icon-primary {
-  color: #dc9200;
+  color: purple;
 }
 
 .icon.icon-primary.icon-circle {
@@ -7393,7 +7393,7 @@ Created using IcoMoon - icomoon.io
 }
 
 .modal.modal-mini .modal-profile i {
-  color: #dc9200;
+  color: purple;
   font-size: 21px;
 }
 
@@ -7402,7 +7402,7 @@ Created using IcoMoon - icomoon.io
 }
 
 .modal.modal-mini .modal-profile.modal-profile-primary {
-  background-color: #dc9200;
+  background-color: purple;
 }
 
 .modal.modal-mini .modal-profile.modal-profile-danger {
@@ -7585,7 +7585,7 @@ Created using IcoMoon - icomoon.io
 }
 
 .modal.modal-primary .modal-content {
-  background-color: #dc9200;
+  background-color: purple;
   color: #ffffff;
 }
 
@@ -8495,7 +8495,7 @@ Created using IcoMoon - icomoon.io
 .card-collapse .card .card-header a[data-toggle="collapse"] i {
   float: right;
   position: relative;
-  color: #dc9200;
+  color: purple;
   top: 1px;
   -webkit-transition: all 300ms ease 0s;
   -moz-transition: all 300ms ease 0s;
@@ -8545,7 +8545,7 @@ Created using IcoMoon - icomoon.io
 }
 
 .card[data-background-color="purple"] {
-  background-color: #dc9200;
+  background-color: purple;
 }
 
 .card[data-background-color="red"] {
@@ -8720,7 +8720,7 @@ Created using IcoMoon - icomoon.io
 }
 
 .card-testimonial .icon.icon-primary i {
-  color: #dc9200;
+  color: purple;
 }
 
 .card-testimonial .icon.icon-info i {
@@ -8827,8 +8827,8 @@ Created using IcoMoon - icomoon.io
 }
 
 .card-pricing .icon.icon-primary i {
-  box-shadow: 0px 9px 30px -6px #dc9200;
-  color: #dc9200;
+  box-shadow: 0px 9px 30px -6px purple;
+  color: purple;
 }
 
 .card-pricing .icon.icon-info i {
@@ -9329,7 +9329,7 @@ Created using IcoMoon - icomoon.io
   input[type="checkbox"]:checked
   + .checkbox-material
   .check {
-  background: #dc9200;
+  background: purple;
 }
 
 .ecommerce-page .card-product .card-image {
@@ -10284,7 +10284,7 @@ Created using IcoMoon - icomoon.io
   top: 36%;
   left: 44%;
   font-size: 65px;
-  color: #dc9200;
+  color: purple;
   padding: 1px;
 }
 
@@ -11516,11 +11516,11 @@ Created using IcoMoon - icomoon.io
     background: linear-gradient(#18ce0f 0%, #000 80%);
   }
   .navbar-collapse[data-color="purple"]:after {
-    background: #dc9200;
-    background: -webkit-linear-gradient(#dc9200 0%, #000 80%);
-    background: -o-linear-gradient(#dc9200 0%, #000 80%);
-    background: -moz-linear-gradient(#dc9200 0%, #000 80%);
-    background: linear-gradient(#dc9200 0%, #000 80%);
+    background: purple;
+    background: -webkit-linear-gradient(purple 0%, #000 80%);
+    background: -o-linear-gradient(purple 0%, #000 80%);
+    background: -moz-linear-gradient(purple 0%, #000 80%);
+    background: linear-gradient(purple 0%, #000 80%);
   }
   .navbar-collapse[data-color="red"]:after {
     background: #ff3636;
@@ -12089,11 +12089,11 @@ Created using IcoMoon - icomoon.io
     background: linear-gradient(#18ce0f 0%, #000 80%);
   }
   .burger-menu .navbar-collapse[data-color="purple"]:after {
-    background: #dc9200;
-    background: -webkit-linear-gradient(#dc9200 0%, #000 80%);
-    background: -o-linear-gradient(#dc9200 0%, #000 80%);
-    background: -moz-linear-gradient(#dc9200 0%, #000 80%);
-    background: linear-gradient(#dc9200 0%, #000 80%);
+    background:purple;
+    background: -webkit-linear-gradient(purple 0%, #000 80%);
+    background: -o-linear-gradient(purple 0%, #000 80%);
+    background: -moz-linear-gradient(purple 0%, #000 80%);
+    background: linear-gradient(purple 0%, #000 80%);
   }
   .burger-menu .navbar-collapse[data-color="red"]:after {
     background: #ff3636;
